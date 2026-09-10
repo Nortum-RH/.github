@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo.png" alt="Logotipo da Nortum RH" width="520" />
+  <img src="../assets/logo.png?v=2" alt="Logotipo da Nortum RH" width="520" />
 </p>
 
 <p align="center">
